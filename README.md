@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JohnMigwi
+-
 - 👀 I’m interested in implementinng ideas to programs
 - 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on any project
+- 💞️ linkedin.com/in/john-migwi
 - 📫 How to reach me : johnmisky53@gmail.com
 
 <!---
