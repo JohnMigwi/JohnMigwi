@@ -1,5 +1,5 @@
 -
-- implementinng ideas to programs
+- implementing ideas to programs
 
 - contacts:
 -  linkedin.com/in/migwi
